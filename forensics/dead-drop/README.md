@@ -1,4 +1,4 @@
-# 🧩 DNS Exfiltration Analysis — Meridian Biotech
+# 🧩 Dead Drop
 
 ## 📌 Challenge Overview
 An insider at Meridian Biotech was suspected of exfiltrating sensitive research data over an 11-day period. The Security Operations Center (SOC) identified unusual DNS traffic originating from:
